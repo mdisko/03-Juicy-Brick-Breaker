@@ -1,6 +1,6 @@
-# Exercise-03d-Shaders
+# Project 03-Juicy Brick Breaker
 
-Exercise for MSCH-C220
+Project 03
 
 The final step adding "juicy" features to a simple brick-breaker game.
 
